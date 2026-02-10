@@ -1,16 +1,30 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**Sebco27/Sebco27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sebastian
+    
+Computer Science Student | Passionate about building software and solving complex problems
 
-Here are some ideas to get you started:
+## 💻 Featured Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### [Money Tracer](https://github.com/Sebco27/money-tracer)
+
+<div>
+  Open-source Android application for personal finance tracking.
+  
+  Built to strengthen mobile development skills and object-oriented design.
+</div>
+
+**Tech Stack:** Kotlin • Jetpack Compose • Android SDK • SQLite • Material Design
+
+## Studies
+
+- B.S. in Computer Science (in progress) - Tecnológico de Costa Rica
+- Technical High School Diploma in Industrial Electronics - Colegio Técnico Profesional de Atenas
+
+---
+
+<div align="center">
+  <a href="https://minecraft.wiki/w/File:Bee_JE1.gif#/media/File:Bee_JE1.gif"><img src="https://minecraft.wiki/images/Bee_JE1.gif?69ac5" width="75" style="vertical-align: middle;"></a>
+  <a href="https://www.tec.ac.cr/"><img src="https://www.tec.ac.cr/themes/custom/tecnologico/logo.svg" width="300" style="vertical-align: middle;"/></a>
+  <a href="https://minecraft.wiki/w/File:MCD_Creeper_Idle.gif#/media/File:MCD_Creeper_Idle.gif"><img src="https://minecraft.wiki/images/MCD_Creeper_Idle.gif?2834e" width="75" style="vertical-align: middle;"></a>
+</div>
